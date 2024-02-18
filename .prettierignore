@@ -1,0 +1,5 @@
+# Ignore package.json:
+.next/
+.husky/
+node_modules/
+package.json
